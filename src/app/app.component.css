@@ -1,0 +1,96 @@
+/*.main{
+    background-image: url('../app/galaxy.jpg');
+    background-position-y: center;
+    
+}*/
+#Mercury:hover{
+    color: burlywood;
+}
+
+#Mercury{
+    margin-left: 5cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mercury_in_color_-_Prockter07-edit1.jpg/1200px-Mercury_in_color_-_Prockter07-edit1.jpg');
+    background-size: cover;
+}
+
+#Venus:hover{
+    color: burlywood;
+}
+#Venus{
+    margin-left: 14cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://media.nature.com/lw800/magazine-assets/d41586-020-02785-5/d41586-020-02785-5_18436254.jpg');
+    background-size: cover;
+}
+
+#Mars:hover{
+    color: burlywood;
+}
+#Mars{
+    margin-left: 5cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg');
+    background-size: cover;
+}
+
+#Jupiter:hover{
+    color: burlywood;
+}
+#Jupiter{
+    margin-left: 14cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg');
+    background-size: cover;
+}
+
+#Saturn:hover{
+    color: burlywood;
+}
+#Saturn{
+    margin-left: 5cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg');
+    background-size: cover;
+}
+
+#Uranus:hover{
+    color: burlywood;
+}
+#Uranus{
+    margin-left: 14cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg');
+    background-size: cover;
+}
+
+#Neptune:hover{
+    color: burlywood;
+}
+#Neptune{
+    margin-left: 16.25cm;
+    margin-top: 2cm;
+    height: 2cm;
+    width: 8cm;
+    border-radius: 20px;
+    background-image: url('https://cdn.mos.cms.futurecdn.net/eNTJrysq4A6DqXncBtsRrB.jpg');
+    background-size: cover;
+}
